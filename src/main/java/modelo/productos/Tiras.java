@@ -1,5 +1,9 @@
 package modelo.productos;
 
-public class Tiras {
+import modelo.ProductoDTO;
+
+public class Tiras extends ProductoDTO {
+
+    private int anchura;
 
 }
